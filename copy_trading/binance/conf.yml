@@ -1,0 +1,8 @@
+api_key: 9fAjYBeCTZt1ubO06jSuQe8Iwx0CUgoRECojZ8TialN5tZDA3Zj7E51Vab6Jevap
+api_secret: V2ExOvnk2Qfga151JPZ8Hsd0FzaWFGegvzzZeU06W8acRbC068fBpPKd8d4Gjllz
+
+leverage: 50
+tp_factor: .0065
+sl_factor: .015
+# tp_factor: .015
+# sl_factor: .0065
